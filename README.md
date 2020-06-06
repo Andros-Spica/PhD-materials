@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/149570447.svg)](https://zenodo.org/badge/latestdoi/149570447)
+
 # PhD materials
 This is a repository containing open-source materials developed for my PhD thesis (Archaeology). The thesis will be available online through a Catalan repository (www.tdx.cat). It is written in Spanish and English, with abstracts for every chapter in Spanish, Catalan, and English.
 
